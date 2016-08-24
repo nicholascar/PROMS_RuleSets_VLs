@@ -1,0 +1,3 @@
+[submodule "proms_rulesets"]
+	path = proms_rulesets
+	url = https://car587@bitbucket.csiro.au/scm/eis/proms_rulesets.git
